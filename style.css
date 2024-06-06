@@ -1,0 +1,39 @@
+body {
+    background-color: brown;
+}
+
+header button {
+    font-size: x-large;
+    color: black;
+}
+
+.header {
+    align-items: center;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin-left: auto;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: indianred;
+    background-color: aqua;
+    border-style: groove;
+}
+
+a {
+    color: inherit;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
